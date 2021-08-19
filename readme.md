@@ -4,6 +4,7 @@ an API server to throw data to client app (build by autoit) and save to database
 
 API Documentation
 1. get hostname
+
 URL : <<server>>/public/api/workstation/hostname
 Method : GET
 Example :
